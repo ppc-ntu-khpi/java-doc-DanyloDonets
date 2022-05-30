@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7944640&assignment_repo_type=AssignmentRepo)
 # Практична робота "Документування JAVA-програм"
 Цей репозиторій містить стартовий код для виконання практичної роботи, який містить кілька класів, які моделюють структуру невеличкої компанії.
 <img src="https://github.com/ppc-ntu-khpi/Javadoc-Starter/blob/master/img/Employees.PNG" width="100%"/>
